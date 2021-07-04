@@ -1,0 +1,19 @@
+{
+    "name": "chugjs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/Chug.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sblmnl/Chug.git"
+    },
+    "author": "sblmnl",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sblmnl/Chug/issues"
+    },
+    "homepage": "https://github.com/sblmnl/Chug#readme"
+}
